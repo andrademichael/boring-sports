@@ -1,0 +1,11 @@
+h2.intro {
+  color: darkgreen;
+}
+p.intro {
+  font-style: italic;
+}
+img.intro {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
